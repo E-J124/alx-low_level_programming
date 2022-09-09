@@ -1,7 +1,6 @@
 #include <unistd.h>
 
 /**
- *
  * main - prints the string in the put function
  *
  * Description: using the main function
